@@ -79,6 +79,11 @@ Simply type your message and press Enter. The bot will respond instantly, mainta
 - Designed for clarity, maintainability, and easy future enhancements.
 
 ---
+## Video Explaination of project:
+
+https://drive.google.com/file/d/1msrkK6yXV5cP3r6cLfumuBoXCJ0OTOtE/view?usp=sharing
+
+---
 
 ## 🙋 Author
 
